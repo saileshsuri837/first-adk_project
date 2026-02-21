@@ -34,7 +34,7 @@ first-adk-project/
 
 ```bash
 # Navigate to project directory
-cd /Users/swethasailesh/Documents/first-adk-project
+cd /Users/your_username/Documents/first-adk-project
 
 # Create a virtual environment (isolated workspace)
 python3 -m venv venv
