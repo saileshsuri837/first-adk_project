@@ -1,0 +1,37 @@
+# Google Agent Development Kit
+google-genai>=0.3.0
+
+# Alternative AI providers (optional)
+anthropic>=0.7.0
+
+# Web scraping and data tools
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Configuration management
+python-dotenv>=1.0.0
+
+# Data processing
+pandas>=2.0.0
+
+# Email sending (optional)
+python-multipart>=0.0.6
+
+# Async support
+httpx>=0.24.0
+aiohttp>=3.8.0
+
+# CLI interface
+typer>=0.9.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Development
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Logging and monitoring
+python-json-logger>=2.0.7
