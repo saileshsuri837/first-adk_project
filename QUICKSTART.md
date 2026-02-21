@@ -6,7 +6,7 @@ Get your Market Research AI Agent up and running in 5 minutes!
 
 ```bash
 # Navigate to project
-cd /Users/swethasailesh/Documents/first-adk-project
+cd /Users/your_username/Documents/first-adk-project
 
 # Create Python virtual environment
 python3 -m venv venv
